@@ -1,0 +1,9 @@
+Hello! 👋
+
+This is my first GitHub file.
+
+I am an IT student learning coding and exploring new technologies.
+
+This repository is created for my academic purpose.
+
+Thank you!
